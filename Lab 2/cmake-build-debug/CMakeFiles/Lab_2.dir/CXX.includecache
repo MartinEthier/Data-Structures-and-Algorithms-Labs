@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/main.cpp
+iostream
+-
+records_manager.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager.h
+patient_record.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/patient_record.h
+records_manager_test.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager_test.h
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/patient_record.cpp
+patient_record.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/patient_record.h
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/patient_record.h
+iostream
+-
+string
+-
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager.cpp
+records_manager.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager.h
+patient_record.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/patient_record.h
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager.h
+iostream
+-
+string
+-
+patient_record.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/patient_record.h
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager_test.cpp
+records_manager_test.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager_test.h
+records_manager.h
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager.h
+
+C:/Users/Martin/Documents/School Stuff/Tron 1B/MTE 140/Lab 2/records_manager_test.h
+iostream
+-
+ctime
+-
+
