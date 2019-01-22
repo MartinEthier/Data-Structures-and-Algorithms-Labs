@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 6/graph.cpp
+graph.h
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 6/graph.h
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 6/graph.h
+string
+-
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+
