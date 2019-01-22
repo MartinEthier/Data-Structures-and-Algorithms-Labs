@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 4/fridge_organizer.cpp
+iostream
+-
+list
+-
+stack
+-
+fridge_organizer.hpp
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 4/fridge_organizer.hpp
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 4/fridge_organizer.hpp
+

@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/binary_search_tree.cpp
+iostream
+-
+queue
+-
+binary_search_tree.hpp
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/binary_search_tree.hpp
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/binary_search_tree.hpp
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/main.cpp
+iostream
+-
+string
+-
+tests.hpp
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/tests.hpp
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/priority_queue.cpp
+priority_queue.hpp
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/priority_queue.hpp
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/priority_queue.hpp
+string
+-
+iostream
+-
+
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/tests.hpp
+algorithm
+-
+sstream
+-
+queue
+-
+priority_queue.hpp
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/priority_queue.hpp
+binary_search_tree.hpp
+C:/Users/Martin/Documents/School Stuff/Tron/1B/MTE 140/Lab 5/binary_search_tree.hpp
+
